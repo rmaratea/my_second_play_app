@@ -4,10 +4,6 @@
     <list default="true" id="10eee7b2-ce8b-43d4-8fe5-0784f36dbc2d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/my_second_play_app.iml" afterPath="$PROJECT_DIR$/.idea/modules/my_second_play_app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/AsyncController.scala" afterPath="$PROJECT_DIR$/app/controllers/AsyncController.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/HomeController.scala" afterPath="$PROJECT_DIR$/app/controllers/HomeController.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome.scala.html" afterPath="$PROJECT_DIR$/app/views/welcome.scala.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/routes" afterPath="$PROJECT_DIR$/conf/routes" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -465,6 +461,14 @@
       <option name="presentableId" value="Default" />
       <updated>1503780488166</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes to the &quot;routes&quot; file">
+      <created>1503864833746</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503864833746</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -504,6 +508,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes to the &quot;routes&quot; file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes to the &quot;routes&quot; file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
